@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking to collaborate on:<br>Open-source projects related to web development, creative coding, or full-stack applications.<br><br>🧩 I’m looking for help with:<br>Improving my backend development, optimizing algorithms, and implementing scalable project structures.<br><br>📚 I’m currently learning:<br>OOP concepts, Database Management Systems, and advanced problem-solving in DSA.<br><br>💬 Ask me about:<br>Frontend development, design ideas, learning strategies, or combining art with technology.<br><br>⚡ Fun fact:<br>I run a small puja shop while studying computer science — it keeps me balanced between tradition and technology!
+🤝 I’m looking to collaborate on:<br>Open-source projects related to web development, creative coding, or full-stack applications.<br><br>🧩 I’m looking for help with:<br>Improving my backend development, optimizing algorithms, and implementing scalable project structures.<br><br>📚 I’m currently learning:<br>OOP concepts, Database Management Systems, and advanced problem-solving in DSA.<br><br>💬 Ask me about:<br>Frontend development, design ideas, learning strategies, or combining art with technology.<br><br>
 
 
 ## 🌐 Socials:
